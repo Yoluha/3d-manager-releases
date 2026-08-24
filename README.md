@@ -1,2 +1,4 @@
-# 3d-manager-releases
-Release binaries for 3D Manager desktop app (update-check feed, no source published here)
+# 3D Manager — Releases
+
+Distribution feed for the 3D Manager desktop app. This repository hosts
+installer downloads and version tags only.
